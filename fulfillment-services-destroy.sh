@@ -1,4 +1,4 @@
-for i in `seq 1 500`
+for i in `seq 1 $1`
 do
 cat <<EOF | kubectl delete -f -
 ---
