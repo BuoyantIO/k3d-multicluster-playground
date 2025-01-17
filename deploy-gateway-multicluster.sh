@@ -65,6 +65,7 @@ kubectl apply -f policy.yaml --context orders
 
 # Step 3: Link the Clusters
 
+sleep 30
 rm multicluster-*.yaml
 
 #linkerd --context=warehouse multicluster link --cluster-name warehouse --gateway=true --api-addr $CLUSTER_WAREHOUSE_API > multicluster-link.yaml
