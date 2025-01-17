@@ -1,10 +1,10 @@
 #!/bin/bash
-# deploy-p2p-clusters.sh
+# deploy-gateway-clusters.sh
 # Cluster deployment script for the k3d-multicluster-playgorund GitHub repository
 # https://github.com/southsidedean/linkerd-demos/tree/main/k3d-multicluster-playground
 # Automates cluster creation, Linkerd installation and installs the Orders application
 # Tom Dean | Buoyant
-# Last edit: 10/8/2024
+# Last edit: 1/17/2025
 
 # Let's set some variables!
 

@@ -1,11 +1,11 @@
 #!/bin/bash
-# deploy-p2p-multicluster.sh
+# deploy-gateway-multicluster.sh
 # Demo script for the k3d-multicluster-playground GitHub repository
 # Deploys a two cluster pod-to-pod multi-cluster setup
 # https://github.com/southsidedean/linkerd-demos/tree/main/k3d-multicluster-playground
 # Automates multi-cluster deployment
 # Tom Dean | Buoyant
-# Last edit: 10/8/2024
+# Last edit: 1/17/2025
 
 # Let's set some variables!
 
