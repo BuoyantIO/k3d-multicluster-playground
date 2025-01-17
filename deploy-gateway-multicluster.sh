@@ -108,5 +108,4 @@ EOF
 kubectl apply -f multicluster-policy.yaml --context orders
 kubectl apply -f multicluster-policy.yaml --context warehouse
 
-
 exit 0
