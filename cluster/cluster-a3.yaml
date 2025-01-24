@@ -2,7 +2,7 @@ apiVersion: k3d.io/v1alpha5
 kind: Simple
 servers: 1
 agents: 1
-image: rancher/k3s:v1.29.3-k3s1
+image: rancher/k3s:v1.31.5-rc2-k3s1
 network: multiaz
 options:
   k3d:

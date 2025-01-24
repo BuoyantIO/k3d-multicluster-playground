@@ -5,12 +5,12 @@
 # https://github.com/southsidedean/linkerd-demos/tree/main/k3d-multicluster-playground
 # Automates multi-cluster deployment
 # Tom Dean | Buoyant
-# Last edit: 1/17/2025
+# Last edit: 1/24/2025
 
 # Let's set some variables!
 
 # BEL: Stable
-BEL_VERSION=enterprise-2.15.7
+BEL_VERSION=enterprise-2.17.0
 CLI_VERSION=install
 MC_VERSION=enterprise
 
